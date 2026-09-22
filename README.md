@@ -23,9 +23,9 @@ npm install
 Create a `.env` file in the project root:
 
 ```env
-PORT=5000
-MONGO_URI=mongodb://localhost:27017/professional-backend
-JWT_SECRET=your_secure_jwt_secret
+PORT=
+MONGO_URI=
+JWT_SECRET=
 ```
 
 ## Run the app
